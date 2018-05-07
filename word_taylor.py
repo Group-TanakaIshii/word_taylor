@@ -1,5 +1,13 @@
 # -*- coding: utf-8 -*-
+
+# Author of this program: Tatsuru Kobayashi and Kumiko Tanaka-Ishii
+
+# This program was written for "Taylor's law for Human Linguistic Sequence"
+# authored by: Tatsuru Kobayashi and Kumiko Tanaka-Ishii
+# URL: https://arxiv.org/abs/1804.07893
+
 # Available with Python 3.6 or later version.
+
 import argparse
 import pandas as pd
 import numpy as np
